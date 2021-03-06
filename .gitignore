@@ -1,0 +1,5 @@
+/jna-graalvm.iml
+/.idea/
+/targetconf/
+/target/
+.DS_Store
